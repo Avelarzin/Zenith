@@ -70,7 +70,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 01/10/2025 | completa  | [MVP](MVP/sp1.md)  |
+| 01                | 01/10/2025 | completa  | [MVP](https://github.com/DAvid505-eng/githubapi/blob/d601901e540ed0ffe775463a04a01fc2865172a2/MVP/sp1.md)  |
 | 02                | 29/10/2025 | completa  | [MVP](MVP/sp2.md)  |
 | 03                | 26/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2055 | a fazer  | [MVP](#)  |
