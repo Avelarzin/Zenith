@@ -53,11 +53,54 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Baixar a base bruta de exportações do MDIC.                                                 | 5          | 1      |
+| 2    | Alta       | Criar ambiente no Google Colab e configurar
+Python/Pandas.                                                                    | 8          | 1      |
+| 3    | Alta       | Instalação e configuração do servidor
+MySQL.                                               | 5          | 2      |
+| 4   | Baixa      | Script de limpeza e padronização inicial dos
+dados     | 2          | 3      |
+| 5  | Baixa      | Padronização e mapeamento de URFs.     | 2          | 3      |
+| 6   | Baixa      | Padronização e mapeamento de NCM e
+Setores.     | 2          | 3      |
+| 7  | Baixa      | Padronização e mapeamento de Países de
+destino e Estados.     | 2          | 3      |
+| 8   | Baixa      | Definição do Modelo de Dados (Schema) e
+criação das tabelas no MySQL.     | 2          | 3      |
+| 9   | Baixa      | Script de importação/carga dos dados limpos
+para o MySQL.     | 2          | 3      |
+| 10   | Baixa      | Validação cruzada da qualidade dos dados e
+revisão dos scripts.     | 2          | 3      |
+| 11   | Baixa      | Execução de consultas de exploração inicial no
+Colab (tendências/anomalias).      | 2          | 3      |
+| 12  | Baixa      | Conexão do Power BI ao banco de dados
+MySQL.     | 2          | 3      |
+| 13   | Baixa      | Criação da página principal do dashboard:
+Visualização Geral (estado, NCM, destino).     | 2          | 3      |
+| 14   | Baixa      | Criação da página Análise de Fluxo e
+Sazonalidade.
+     | 2          | 3      |
+| 15   | Baixa      | Criação da página Análise URFs e Logística.     | 2          | 3      |
+| 16   | Baixa      | Criação da página Indicadores Gerenciais     | 2          | 3      |
+| 17   | Baixa      | Implementação de Filtros Dinâmicos na
+interface.     | 2          | 3      |
+| 18   | Baixa      | Criação do repositório no GitHub e
+versionamento dos scripts/dashboard     | 2          | 3      |
+| 19   | Baixa      | Revisão e testes iniciais do dashboard (dados e
+funcionalidade).     | 2          | 3      |
+| 20   | Baixa      | Design e usabilidade final do dashboard (cores,
+layout, intuitividade).      | 2          | 3      |
+| 21   | Baixa      | Elaboração do Relatório Gerencial (primeiro
+rascunho: estados de maior crescimento e
+produtos estratégicos).     | 2          | 3      |
+| 22   | Baixa      | Análise de Dependência de Países e riscos     | 2          | 3      |
+| 23   | Baixa      | Refinamento e validação das sugestões
+estratégicas.     | 2          | 3      |
+| 24   | Baixa      | Revisão final do Dashboard e correção de bugs     | 2          | 3      |
+| 25   | Baixa      | Formatação final do Relatório para formato
+acadêmico.     | 2          | 3      |
+| 26   | Baixa      | Commit final no GitHub e preparação para a
+Sprint Review.      | 2          | 3      |
 
 
 
