@@ -79,7 +79,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 24   | Baixa      | Revisão final do Dashboard e correção de bugs                                         | 2          | 3      |
 | 25   | Baixa      | Formatação final do Relatório para formato acadêmico.                                 | 2          | 3      |
 | 26   | Baixa      | Commit final no GitHub e preparação para a Sprint Review.                             | 2          | 3      |
-|-----|----------|---------------------------------------------------------------------------------|----------|------|
+
 
 
 
