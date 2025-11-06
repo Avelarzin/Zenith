@@ -63,7 +63,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 8   | Baixa      | Definição do Modelo de Dados (Schema) e criação das tabelas no MySQL.                  | 24/09          | 1      |
 | 9   | Baixa      | Script de importação/carga dos dados limpos para o MySQL.                              | 26/09          | 1      |
 | 10   | Baixa      | Validação cruzada da qualidade dos dados e revisão dos scripts.                       | 28/09          | 1     |
-| 11   | Baixa      | Execução de consultas de exploração inicial no Colab (tendências/anomalias).          | 08/10          | 2      |
+| 11   | Média      | Execução de consultas de exploração inicial no Colab (tendências/anomalias).          | 08/10          | 2      |
 | 12  | Baixa      | Conexão do Power BI ao banco de dados MySQL.                                           | 09/10          | 2     |
 | 13   | Baixa      | Criação da página principal do dashboard: Visualização Geral (estado, NCM, destino).  | 13/10          | 2      |
 | 14   | Baixa      | Criação da página Análise de Fluxo e Sazonalidade.                                    | 16/10          | 2      |
