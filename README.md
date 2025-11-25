@@ -1,5 +1,5 @@
 # Aprendizado por Projeto Integrado (API) - ZenithPro
-oi meu nome é joao
+
 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
